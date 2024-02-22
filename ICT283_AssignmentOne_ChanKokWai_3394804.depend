@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1708566734 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\date.cpp
+	"Date.h"
+
+1708566725 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\date.h
+	<iostream>
+
+1708566838 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\time.cpp
+	"Time.h"
+
+1708566845 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\time.h
+	<iostream>
+	<iomanip>
+
+1708566958 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\measurement.cpp
+	"Measurement.h"
+
+1708566950 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\measurement.h
+	<cmath>
+
+1708567067 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\windspeed.cpp
+	"WindSpeed.h"
+
+1708567058 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\windspeed.h
+	<iostream>
+	"Measurement.h"
+
+1708567175 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\temperature.cpp
+	"Temperature.h"
+
+1708567168 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\temperature.h
+	<iostream>
+	"Measurement.h"
+
+1708567308 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\solarradiation.cpp
+	"SolarRadiation.h"
+
+1708567299 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\solarradiation.h
+	<iostream>
+	"Measurement.h"
+
+1708567291 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\solarradiationtest.cpp
+	<iostream>
+	"SolarRadiation.h"
+
+1708567406 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\vectortest.cpp
+	<iostream>
+	<iomanip>
+	"Vector.h"
+
+1708567370 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\vector.h
+
+1708567516 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\windrectype.cpp
+	"WindRecType.h"
+
+1708567498 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\windrectype.h
+	<iostream>
+	<string>
+	"Date.h"
+	"Time.h"
+	"WindSpeed.h"
+	"SolarRadiation.h"
+	"Temperature.h"
+
+1708567490 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\windrectypetest.cpp
+	<iostream>
+	"WindRecType.h"
+
+1708569811 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\processor.cpp
+	"Processor.h"
+
+1708570553 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\processor.h
+	<iostream>
+	<fstream>
+	<string>
+	"WindRecType.h"
+	"Vector.h"
+	"Constant.h"
+
+1708567575 c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\constant.h
+	<string>
+
+1708570756 source:c:\users\chankokwai\desktop\v2_assignmentone\ict283_assignmentone_chankokwai_3394804\main.cpp
+	<iostream>
+	"Processor.h"
+
